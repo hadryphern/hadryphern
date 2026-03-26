@@ -90,15 +90,8 @@ goal: turn ideas into mechanics players can feel</pre>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/hadryphern/1.7.10-DuplicatorTreeMod">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=hadryphern&repo=1.7.10-DuplicatorTreeMod&hide_border=true&bg_color=00000000&title_color=34D399&text_color=94A3B8&icon_color=F59E0B" alt="1.7.10-DuplicatorTreeMod" />
-  </a>
-</p>
-
 - `Chaotic-Dimensions`: Terraria mod project centered on custom content and bigger gameplay ideas.
 - `TreeDuplicatorMod`: Minecraft modding monorepo built around a block duplication mechanic.
-- `1.7.10-DuplicatorTreeMod`: earlier Minecraft implementation of the same concept and design direction.
 
 ## Dev telemetry
 
